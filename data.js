@@ -148,7 +148,7 @@ const linksData = [
   /* {
     title: "PAID Courses",
     desc: "Paid PDFs, EBOOKs & Suggestions, all in one place",
-    url: "https://pdfcart.in/@wisechoice",
+    url: "",
     icon: "fas fa-book-open",
     category: "website",
     section: "",
