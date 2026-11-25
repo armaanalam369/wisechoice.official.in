@@ -137,7 +137,7 @@ const linksData = [
   {
     title: "Wise Choice PYQs Library",
     desc: "Previous year question papers, all in one place",
-    url: "https://sites.google.com/view/wise-choice-armaan/cu-pyqs-library",
+    url: "https://sites.google.com/view/wisechoiceofficial/cu-pyqs-library",
     icon: "fas fa-folder-open",
     category: "website",
     section: "",
