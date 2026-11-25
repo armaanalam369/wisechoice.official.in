@@ -59,7 +59,7 @@
 
 const profileData = {
   name: "Armaan Alam",
-  handle: "@glitchxarm",
+  handle: "",
   bio: "Educator, Mentor & Content Creator | Sharing study resources, examination guides & community updates.",
   avatar: "armaan.png",
   verified: true,
