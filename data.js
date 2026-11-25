@@ -145,7 +145,7 @@ const linksData = [
     badgeColor: "info",
     pinned: false
   },
-  {
+  /* {
     title: "PAID Courses",
     desc: "Paid PDFs, EBOOKs & Suggestions, all in one place",
     url: "https://pdfcart.in/@wisechoice",
@@ -155,7 +155,7 @@ const linksData = [
     badge: "Online Store",
     badgeColor: "info",
     pinned: false
-  },
+  },  */
   {
     title: "Suggestion Hub",
     desc: "Download semester study material, PDFs & exam suggestions",
